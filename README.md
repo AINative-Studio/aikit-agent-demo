@@ -156,7 +156,7 @@ Then import and add to the \`AGENTS\` object in \`app/page.tsx\`.
 
 ## Learn More
 
-- **AI Kit**: https://aikit.ainative.studio
+- **AI Kit**: https://www.ainative.studio/ai-kit
 - **ZeroDB**: https://zerodb.ainative.studio
 - **Anthropic Claude**: https://www.anthropic.com/claude
 - **Next.js**: https://nextjs.org
