@@ -1,0 +1,32 @@
+{
+  "name": "agent-browser-demo",
+  "version": "0.1.0",
+  "private": true,
+  "description": "AI Kit project based on Next.js Chat App",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@ainative-studio/aikit-core": "latest",
+    "@ainative/ai-kit-nextjs": "latest",
+    "@anthropic-ai/sdk": "^0.17.0",
+    "next": "^14.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "@types/react": "^18.2.0",
+    "typescript": "^5.3.0",
+    "tailwindcss": "^3.4.0",
+    "autoprefixer": "^10.4.16",
+    "vitest": "^1.1.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
