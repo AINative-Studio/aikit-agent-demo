@@ -38,4 +38,4 @@ yarn-error.log*
 .next/
 out/
 *.tsbuildinfo
-next-env.d.ts
+next-env.d.ts.env
